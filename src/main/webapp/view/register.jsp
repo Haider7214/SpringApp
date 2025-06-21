@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Telusko Learning Registration</title>
+<title>Telusko Learning Registration Telusko</title>
 </head>
 <body>
 <center>
