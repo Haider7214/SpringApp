@@ -12,6 +12,12 @@ import com.telusko.FirstSpringWebApp.model.Employee;
 @Controller
 public class EmployeeController
 {
+
+	@GetMapping("/")
+	public String getHomePage()
+	{
+		return "index";
+	}
 	@GetMapping("/register")
 	public String getHomePage(@ModelAttribute("emp")Employee emp)
 	{
